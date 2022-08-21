@@ -1,10 +1,25 @@
-## Hi there 👋
+# John_Dev  
+
+## Hi there 👋   
+
+🙋‍♀️ A short introduction  
+
+> Eh, je m'appelle john et bienvenu sur mon github john_dev  
+> Je suis développeur web Javascript et Php  
+> Je travail avec les outils, REACT, RXJ et LARAVEL  
+> Peut etre que vous trouverez quelque chose qui vous intéresse ici ;-)  
+
+> Hey, my name is john and welcome to my github john_dev  
+> I am a Javascript and Php web developer  
+> I work with the tools, REACT, RXJ and LARAVEL  
+> Maybe you'll find something you're interested in here ;-)  
+
+
 
 <!--
-
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
+ - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
