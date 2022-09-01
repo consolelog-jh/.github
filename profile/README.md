@@ -17,7 +17,7 @@
 
 > Eh, je m'appelle john, bienvenu sur john_dev  
 > Je suis développeur web Javascript et Php  
-> Je travaille avec les outils, REACT, RXJ et LARAVEL  
+> Je travaille avec les outils, REACT, RXJ, VUEJS, LARAVEL, ADONIS et TAILWINDCSS  
 > Peut-être que vous trouverez quelque chose qui vous intéresse ici ;-)  
 
 > Hey, my name is john and welcome to my github john_dev  
