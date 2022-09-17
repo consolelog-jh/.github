@@ -17,12 +17,12 @@
 
 > Eh, je m'appelle john, bienvenu sur john_dev  
 > Je suis développeur web Javascript et Php  
-> Je travaille avec les outils, REACT, RXJ, VUEJS, LARAVEL, ADONIS et TAILWINDCSS  
+> Je travaille avec les outils, REACT, RXJ, VUEJS, LOOPBACK, LARAVEL et TAILWINDCSS  
 > Peut-être que vous trouverez quelque chose qui vous intéresse ici ;-)  
 
 > Hey, my name is john and welcome to my github john_dev  
 > I am a Javascript and Php web developer  
-> I work with the tools, REACT, RXJ and LARAVEL  
+> I work with the tools, REACT, RXJ, VUEJS, LOOPBACK, LARAVEL and TAILWINDCSS  
 > Maybe you'll find something you're interested in here ;-)  
 
 🙋‍♀️ A short introduction for max
