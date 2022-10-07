@@ -2,32 +2,16 @@
 
 ## Hi there 👋   
 
-🙋‍ A short introduction for john_dev  
+🙋‍ A short introduction for **console_log**  
 
-> john_dev est un collectif de développeurs, création de projets complets,  
+> **console_log** est un collectif de développeurs, création de projets complets open source,  
 > intervention sur des projets existant, mise à jour de site ou d'application.  
 > Nous travaillons main dans la main afin de créer des projets intéressant,  
 > amusant tout en continuant à progresser.  
 
-> john_dev is a collective of developers, creation of complete projects,  
+> **console_log** is a collective of developers, creation of complete projects open source,  
 > intervention on existing projects, updating of site or application.  
 > We work hand in hand to create interesting and fun projects while continuing to progress.
-
-🙋‍♀️ A short introduction for john
-
-> Eh, je m'appelle john, bienvenu sur john_dev  
-> Je suis développeur web Javascript et Php  
-> Je travaille avec les outils, REACT, RXJ, VUEJS, LOOPBACK, LARAVEL et TAILWINDCSS  
-> Peut-être que vous trouverez quelque chose qui vous intéresse ici ;-)  
-
-> Hey, my name is john and welcome to my github john_dev  
-> I am a Javascript and Php web developer  
-> I work with the tools, REACT, RXJ, VUEJS, LOOPBACK, LARAVEL and TAILWINDCSS  
-> Maybe you'll find something you're interested in here ;-)  
-
-🙋‍♀️ A short introduction for max
-
-
 
 <!--
 **Here are some ideas to get you started:**
